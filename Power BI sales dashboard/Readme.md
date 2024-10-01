@@ -18,20 +18,30 @@ Displays the number of unique customers and the revenue per customer.
 Orders are broken down by income level and occupation.
 Top customers by revenue and their orders are also highlighted.
 
+![4](https://github.com/user-attachments/assets/2a81fdb7-0689-44d6-88ba-582f35259a36)
+
 2. Product Performance Dashboard
 
 Shows monthly trends for orders, revenue, and profit compared to targets.
 Tracks return rates and their trends over time.
 
+![3](https://github.com/user-attachments/assets/82e5eb21-8f0f-48cd-9c63-06471d2fdc63)
+
+
 3. Geographical Sales Distribution
 
 Provides a map of sales performance across different regions (North America, Europe, Pacific, etc.).
+
+![2](https://github.com/user-attachments/assets/9125c773-d02d-483a-8e61-d60f960c4999)
+
 
 4. Revenue and Product Analysis
 
 Displays total revenue, profit, and return rates.
 Includes top 10 products by revenue, with their corresponding orders and return rates.
 Monthly revenue, orders, and return trends are tracked.
+
+![1](https://github.com/user-attachments/assets/0f623ed4-4e01-4b08-a306-573f03db07bc)
 
 #  Key Technologies Used
 Power BI: The dashboard is built and visualized using Power BI, with interactive visual elements.
